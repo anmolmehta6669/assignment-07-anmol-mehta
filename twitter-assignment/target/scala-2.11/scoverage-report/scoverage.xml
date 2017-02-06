@@ -1,0 +1,200 @@
+<scoverage 
+statement-count="52" statements-invoked="52" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1486355906713">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="52" statements-invoked="52" statement-rate="100.00">
+            <classes>
+                <class 
+                name="Tweets" filename="Tweets.scala" statement-count="52" statements-invoked="52" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/getTweets" statement-count="14" statements-invoked="14" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="674" end="700" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="1043" end="1061" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="475" end="527" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="1130" end="1151" line="26" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="1089" end="1113" line="25" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="399" end="451" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="1157" end="1186" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="610" end="641" line="15" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="963" end="1025" line="22" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="706" end="934" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="342" end="369" line="11" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="1080" end="1083" line="24" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="1157" end="1171" line="27" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getTweets" start="557" end="604" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/countTweets" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="countTweets" start="2234" end="2271" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="countTweets" start="2242" end="2270" line="60" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/getLikesAndReTweets" statement-count="7" statements-invoked="7" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getLikesAndReTweets" start="1693" end="1714" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getLikesAndReTweets" start="1623" end="1722" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getLikesAndReTweets" start="1569" end="1581" line="41" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getLikesAndReTweets" start="1669" end="1691" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getLikesAndReTweets" start="1634" end="1634" line="43" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getLikesAndReTweets" start="1598" end="1616" line="42" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getLikesAndReTweets" start="1652" end="1715" line="44" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/retrieveTweets" statement-count="12" statements-invoked="12" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1351" end="1351" line="33" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1254" end="1283" line="31" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1479" end="1479" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1402" end="1429" line="35" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1378" end="1450" line="35" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1480" end="1486" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1387" end="1400" line="35" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1463" end="1487" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1479" end="1479" line="37" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1300" end="1318" line="32" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1431" end="1449" line="35" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="retrieveTweets" start="1340" end="1457" line="33" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/getAverageLikesAndRetweets" statement-count="15" statements-invoked="15" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="1817" end="2169" line="49" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2016" end="2026" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="1984" end="2031" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="1939" end="1939" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2083" end="2155" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2125" end="2154" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2038" end="2163" line="53" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="1913" end="1957" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2028" end="2028" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="1945" end="1952" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2100" end="2123" line="54" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="1861" end="1889" line="50" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2065" end="2065" line="53" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="1954" end="1954" line="51" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="getAverageLikesAndRetweets" start="2010" end="2010" line="52" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/&lt;none&gt;" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="&lt;none&gt;" start="236" end="267" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Tweets" class-type="Class" full-class-name="Tweets" source="E:\scala\twitter-assignment\src\main\scala\Tweets.scala" method="&lt;none&gt;" start="253" end="266" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

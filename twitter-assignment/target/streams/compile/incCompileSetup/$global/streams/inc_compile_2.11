@@ -1,0 +1,297 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> E:\scala\twitter-assignment\target\scala-2.11\classes
+compile options:
+3 items
+0 -> -Xplugin:C:\Users\Nitin Aggarwal\.ivy2\cache\org.scoverage\scalac-scoverage-plugin_2.11\jars\scalac-scoverage-plugin_2.11-1.3.0.jar
+1 -> -P:scoverage:dataDir:E:\scala\twitter-assignment\target\scala-2.11/scoverage-data
+2 -> -Yrangepos
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\LikesAndRetweets$.class
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\LikesAndRetweets.class
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\MyTweets$.class
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\MyTweets.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$1.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$countTweets$1.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$2.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$3.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$apply$1.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getLikesAndReTweets$1.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$retrieveTweets$1.class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets.class
+binary dependencies:
+6 items
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> C:\Users\Nitin Aggarwal\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> C:\Program Files\Java\jre7\lib\rt.jar
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> C:\Users\Nitin Aggarwal\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> C:\Users\Nitin Aggarwal\.ivy2\cache\org.scoverage\scalac-scoverage-runtime_2.11\jars\scalac-scoverage-runtime_2.11-1.3.0.jar
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> C:\Users\Nitin Aggarwal\.ivy2\cache\org.twitter4j\twitter4j-core\jars\twitter4j-core-4.0.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> LikesAndRetweets
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> LikesAndRetweets$
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> MyTweets
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> MyTweets$
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$1
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$countTweets$1
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$getAverageLikesAndRetweets$1
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$2
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$3
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$apply$1
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$getLikesAndReTweets$1
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets$$anonfun$retrieveTweets$1
+used names:
+169 items
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> &&
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> <init>
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> ==
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> A
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> AbstractFunction2
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> AbstractFunction3
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Any
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> AnyRef
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Boolean
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Date
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Double
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> IndexOutOfBoundsException
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Int
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Iterator
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> LikesAndRetweets
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> MyTweets
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> None
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Nothing
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Object
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Predef
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Product
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> ScalaRunTime
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Serializable
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Some
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Statics
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> String
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> T
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> T0
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> T1
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> T2
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> T3
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Tuple2
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> Tuple3
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> _hashCode
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> _toString
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> asInstanceOf
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> date
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> doubleHash
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> eq
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> finalizeHash
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> isInstanceOf
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> java
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> likes
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> mix
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> package
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> retweets
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> runtime
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> scala
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> toString
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> tweet
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> typedProductIterator
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> user
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> util
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> ||
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> $conforms
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> /
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> <:<
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> <byname>
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> <init>
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> ?0
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> A
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Any
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> AnyRef
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> AsScala
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> B
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Boolean
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Buffer
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> CanBuildFrom
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Class
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Coll
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Comparable
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Configuration
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> ConfigurationBuilder
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Date
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Decorators
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Double
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> DoubleIsFractional
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> ExecutionContext
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> ExecutionContextExecutor
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Function1
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Future
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Implicits
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Int
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Invoker
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> JavaConverters
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> LikesAndRetweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> List
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Logger
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> MyTweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Nothing
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Numeric
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Object
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Ordering
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Predef
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Query
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> QueryResult
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Status
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> String
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> T
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> That
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Tweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Twitter
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> TwitterFactory
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> Unit
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> User
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> accessToken
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> accessTokenSecret
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> allTweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> apply
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> asScala
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> asScalaBufferConverter
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> build
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> canBuildFrom
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> collection
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> concurrent
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> conf
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> configurationBuilder
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> consumerKey
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> consumerSecretKey
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> date
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getClass
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getCreatedAt
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getFavoriteCount
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getInstance
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getLikesAndReTweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getLogger
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getRetweetCount
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getScreenName
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getText
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getTweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> getUser
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> global
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> hashtag
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> immutable
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> info
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> invoked
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> likes
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> list
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> listOfLikesAndRetweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> log
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> map
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> math
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> maxTweet
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> ordered
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> package
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> query
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> retrieveTweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> retweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> scala
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> scoverage
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> search
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> setCount
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> setDebugEnabled
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> setOAuthAccessToken
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> setOAuthAccessTokenSecret
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> setOAuthConsumerKey
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> setOAuthConsumerSecret
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> size
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> sortBy
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> sum
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> toDouble
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> toList
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> totalLikes
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> totalRetweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> tweet
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> tweets
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> twitter
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> twitter4j
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> x
+product stamps:
+13 items
+E:\scala\twitter-assignment\target\scala-2.11\classes\LikesAndRetweets$.class -> lastModified(1486355871954)
+E:\scala\twitter-assignment\target\scala-2.11\classes\LikesAndRetweets.class -> lastModified(1486355871954)
+E:\scala\twitter-assignment\target\scala-2.11\classes\MyTweets$.class -> lastModified(1486355871970)
+E:\scala\twitter-assignment\target\scala-2.11\classes\MyTweets.class -> lastModified(1486355871985)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$1.class -> lastModified(1486355872017)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$countTweets$1.class -> lastModified(1486355872017)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$2.class -> lastModified(1486355872032)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$3.class -> lastModified(1486355872048)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1$$anonfun$apply$1.class -> lastModified(1486355872048)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getAverageLikesAndRetweets$1.class -> lastModified(1486355872032)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$getLikesAndReTweets$1.class -> lastModified(1486355872048)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets$$anonfun$retrieveTweets$1.class -> lastModified(1486355872063)
+E:\scala\twitter-assignment\target\scala-2.11\classes\Tweets.class -> lastModified(1486355872001)
+source stamps:
+2 items
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> hash(2d72eaa957995d91af6afa0988533d813cb0b371)
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> hash(4bd8dc88a4ad95a4f468546bf644c99e18b28f24)
+binary stamps:
+4 items
+C:\Program Files\Java\jre7\lib\rt.jar -> lastModified(1459523086256)
+C:\Users\Nitin Aggarwal\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+C:\Users\Nitin Aggarwal\.ivy2\cache\org.scoverage\scalac-scoverage-runtime_2.11\jars\scalac-scoverage-runtime_2.11-1.3.0.jar -> lastModified(1478455166000)
+C:\Users\Nitin Aggarwal\.ivy2\cache\org.twitter4j\twitter4j-core\jars\twitter4j-core-4.0.6.jar -> lastModified(1482670677000)
+class names:
+4 items
+C:\Program Files\Java\jre7\lib\rt.jar -> java.lang.Object
+C:\Users\Nitin Aggarwal\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.collection.mutable.Buffer
+C:\Users\Nitin Aggarwal\.ivy2\cache\org.scoverage\scalac-scoverage-runtime_2.11\jars\scalac-scoverage-runtime_2.11-1.3.0.jar -> scoverage.Invoker$
+C:\Users\Nitin Aggarwal\.ivy2\cache\org.twitter4j\twitter4j-core\jars\twitter4j-core-4.0.6.jar -> twitter4j.Twitter
+internal apis:
+2 items
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwebSQUgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwloRp/HQABm5vdGlmeXNxAH4ADLpgOHR0AAR3YWl0c3EAfgAMygdlrXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMP6opanQADSRhc0luc3RhbmNlT2ZzcQB+AAzP/enKdAAMcHJvZHVjdEFyaXR5c3EAfgAMuXLsB3QABmVxdWFsc3NxAH4ADGFVHu10AAxhc0luc3RhbmNlT2ZzcQB+AAxSKtqbdAAFdHdlZXRzcQB+AAykn7TpdAAMc3luY2hyb25pemVkc3EAfgAMnLegM3QADSRpc0luc3RhbmNlT2ZzcQB+AAzw4f5fdAAIY2FuRXF1YWxzcQB+AAzbMG48dAANcHJvZHVjdFByZWZpeHNxAH4ADAfl0HF0AAhyZXR3ZWV0c3NxAH4ADK+B9oJ0AAlub3RpZnlBbGxzcQB+AAwzMaS0dAAMaXNJbnN0YW5jZU9mc3EAfgAM/3dnMnQABWxpa2Vzc3EAfgAM+Rd1xHQABjxpbml0PnNxAH4ADMksaLB0AARkYXRlc3EAfgAMTcMyznQAAj09c3EAfgAMSaAyZnQAEExpa2VzQW5kUmV0d2VldHNzcQB+AAyfhYZwdAAFY2xvbmVzcQB+AAyLhFb7dAAGJGluaXQkc3EAfgAMF1HP8XQADmNvcHkkZGVmYXVsdCQzc3EAfgAMCPd2p3QABGNvcHlzcQB+AAwyELZHdAAIdG9TdHJpbmdzcQB+AAxbxDFPdAACIT1zcQB+AAw78jmPdAAITXlUd2VldHNzcQB+AAxWvKZudAAIZ2V0Q2xhc3NzcQB+AAwrD7FpdAAOY29weSRkZWZhdWx0JDFzcQB+AAy9yy6PdAACbmVzcQB+AAxwuo4adAAEdXNlcnNxAH4ADAeyJTp0AAJlcXNxAH4ADBN8LmN0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAzqL6TddAACIyNzcQB+AAxV7ndrdAAIZmluYWxpemVzcQB+AAxkqxC2dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzmr6JYdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AEN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AeHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBhTAAJaW5oZXJpdGVkcQB+AGFMAAdwYXJlbnRzcQB+AGF4cQB+AH1zcQB+AHh1cQB+AFwAAAAAc3EAfgB4dXEAfgBcAAAAAHNxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AfHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AfHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlnNxAH4AiXEAfgCMc3EAfgCNc3EAfgCQdXEAfgCTAAAAA3NxAH4AlXQABGphdmFzcQB+AJV0AAJpb3EAfgCac3EAfgCJdAAHUHJvZHVjdHEAfgCPc3EAfgCJdAAGRXF1YWxzcQB+AI9zcQB+AIl0AAZPYmplY3RzcQB+AI1zcQB+AJB1cQB+AJMAAAADc3EAfgCVcQB+AKBzcQB+AJV0AARsYW5ncQB+AJpzcQB+AIl0AANBbnlxAH4Aj3NxAH4AXnEAfgBrdXEAfgBsAAAAAHNxAH4AbgBxAH4ANXVxAH4AcAAAAABxAH4AdHVxAH4AdgAAAABzcQB+AHhxAH4AfnNxAH4AeHNxAH4AgHNxAH4AeHVxAH4AXAAAAABzcQB+AHh1cQB+AFwAAAAAc3EAfgB4dXEAfgCHAAAABnNxAH4AiXEAfgCMc3EAfgCNc3EAfgCQdXEAfgCTAAAAAnNxAH4AlXEAfgCYcQB+AJpzcQB+AIlxAH4AjHNxAH4AjXNxAH4AkHVxAH4AkwAAAANzcQB+AJVxAH4AoHNxAH4AlXQAAmlvcQB+AJpzcQB+AIlxAH4ApHEAfgDAc3EAfgCJdAAGRXF1YWxzcQB+AMBzcQB+AIlxAH4AqHNxAH4AjXNxAH4AkHVxAH4AkwAAAANzcQB+AJVxAH4AoHNxAH4AlXEAfgCucQB+AJpzcQB+AIlxAH4AsHEAfgDAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVoRtp5FdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANUU6XHNjYWxhXHR3aXR0ZXItYXNzaWdubWVudFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAULXLqqVeZXZGvavoJiFM9gTyws3E=
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPeB4cgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAbc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw/sXQ7XQABm5vdGlmeXNxAH4ADCuEa4x0ABNnZXRMaWtlc0FuZFJlVHdlZXRzc3EAfgAM235V43QABHdhaXRzcQB+AAxUhYtEdAANJGFzSW5zdGFuY2VPZnNxAH4ADNpHxVR0ABpnZXRBdmVyYWdlTGlrZXNBbmRSZXR3ZWV0c3NxAH4ADHOTNht0AAZlcXVhbHNzcQB+AAyBpBVzdAAMYXNJbnN0YW5jZU9mc3EAfgAMRJuKCHQADHN5bmNocm9uaXplZHNxAH4ADC+yHwl0AAlnZXRUd2VldHNzcQB+AAwqtQL7dAANJGlzSW5zdGFuY2VPZnNxAH4ADO38nkh0AAZUd2VldHNzcQB+AAwG67WVdAAJbm90aWZ5QWxsc3EAfgAMP68p0XQADGlzSW5zdGFuY2VPZnNxAH4ADLF6Ue10AAY8aW5pdD5zcQB+AAwL998NdAAOcmV0cmlldmVUd2VldHNzcQB+AAxNFJ3LdAALY291bnRUd2VldHNzcQB+AAyrhGMtdAACPT1zcQB+AAxGOnHkdAAFY2xvbmVzcQB+AAwzT11CdAAIdG9TdHJpbmdzcQB+AAwEmY4+dAACIT1zcQB+AAwHB0ntdAAIZ2V0Q2xhc3NzcQB+AAwSpl92dAACbmVzcQB+AAx5fUZVdAACZXFzcQB+AAwt7BemdAADbG9nc3EAfgAMo8MQjHQAAiMjc3EAfgAM3pz/6nQACGZpbmFsaXplc3EAfgAMAeduv3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBpc3EAfgBkdXEAfgBIAAAAAHNxAH4AZHVxAH4ASAAAAABzcQB+AGR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIJzcQB+AHV0AANBbnlzcQB+AHlzcQB+AHx1cQB+AH8AAAACc3EAfgCBdAAFc2NhbGFxAH4AiHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaEbaeRXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADVFOlxzY2FsYVx0d2l0dGVyLWFzc2lnbm1lbnRcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEvY3IikrZWk9GhUa/ZEyZ4Yso8k
+external apis:
+0 items
+source infos:
+2 items
+E:\scala\twitter-assignment\src\main\scala\CaseClasses.scala -> 
+AAAAAAAAAAA=
+E:\scala\twitter-assignment\src\main\scala\Tweets.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWhG2nkV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANUU6XHNjYWxhXHR3aXR0ZXItYXNzaWdubWVudFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

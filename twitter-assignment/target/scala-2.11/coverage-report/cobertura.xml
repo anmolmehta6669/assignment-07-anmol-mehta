@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="1.00" lines-valid="52" lines-covered="52" branches-valid="0" branches-covered="0" branch-rate="1.00" complexity="0" version="1.0" timestamp="1486355906635">
+    <sources>
+        <source>--source</source>
+        <source>E:/scala/twitter-assignment/src/main/scala-2.11</source>
+        <source>E:/scala/twitter-assignment/src/main/scala</source>
+        <source>E:/scala/twitter-assignment/src/main/java</source>
+    </sources>
+    <packages>
+        <package name="&lt;empty&gt;" line-rate="1.00" branch-rate="1.00" complexity="0">
+            <classes>
+                <class name="Tweets" filename="Tweets.scala" line-rate="1.00" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method name="&lt;empty&gt;/Tweets/getTweets" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="16" hits="1" branch="false"/>
+                                <line number="23" hits="1" branch="false"/>
+                                <line number="13" hits="1" branch="false"/>
+                                <line number="26" hits="1" branch="false"/>
+                                <line number="25" hits="1" branch="false"/>
+                                <line number="12" hits="1" branch="false"/>
+                                <line number="27" hits="1" branch="false"/>
+                                <line number="15" hits="1" branch="false"/>
+                                <line number="22" hits="1" branch="false"/>
+                                <line number="21" hits="1" branch="false"/>
+                                <line number="11" hits="1" branch="false"/>
+                                <line number="24" hits="1" branch="false"/>
+                                <line number="27" hits="1" branch="false"/>
+                                <line number="14" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="&lt;empty&gt;/Tweets/countTweets" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="60" hits="1" branch="false"/>
+                                <line number="60" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/getLikesAndReTweets" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="44" hits="1" branch="false"/>
+                                <line number="43" hits="1" branch="false"/>
+                                <line number="41" hits="1" branch="false"/>
+                                <line number="44" hits="1" branch="false"/>
+                                <line number="43" hits="1" branch="false"/>
+                                <line number="42" hits="1" branch="false"/>
+                                <line number="44" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method name="&lt;empty&gt;/Tweets/retrieveTweets" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="33" hits="1" branch="false"/>
+                                <line number="31" hits="1" branch="false"/>
+                                <line number="37" hits="1" branch="false"/>
+                                <line number="35" hits="1" branch="false"/>
+                                <line number="35" hits="1" branch="false"/>
+                                <line number="37" hits="1" branch="false"/>
+                                <line number="35" hits="1" branch="false"/>
+                                <line number="37" hits="1" branch="false"/>
+                                <line number="37" hits="1" branch="false"/>
+                                <line number="32" hits="1" branch="false"/>
+                                <line number="35" hits="1" branch="false"/>
+                                <line number="33" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method 
+                        name="&lt;empty&gt;/Tweets/getAverageLikesAndRetweets" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="49" hits="1" branch="false"/>
+                                <line number="52" hits="1" branch="false"/>
+                                <line number="52" hits="1" branch="false"/>
+                                <line number="51" hits="1" branch="false"/>
+                                <line number="54" hits="1" branch="false"/>
+                                <line number="54" hits="1" branch="false"/>
+                                <line number="53" hits="1" branch="false"/>
+                                <line number="51" hits="1" branch="false"/>
+                                <line number="52" hits="1" branch="false"/>
+                                <line number="51" hits="1" branch="false"/>
+                                <line number="54" hits="1" branch="false"/>
+                                <line number="50" hits="1" branch="false"/>
+                                <line number="53" hits="1" branch="false"/>
+                                <line number="51" hits="1" branch="false"/>
+                                <line number="52" hits="1" branch="false"/>
+                            </lines>
+</method>
+                        <method name="&lt;empty&gt;/Tweets/&lt;none&gt;" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="9" hits="1" branch="false"/>
+                                <line number="9" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="33" hits="1" branch="false"/>
+                        <line number="49" hits="1" branch="false"/>
+                        <line number="44" hits="1" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="31" hits="1" branch="false"/>
+                        <line number="16" hits="1" branch="false"/>
+                        <line number="43" hits="1" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="37" hits="1" branch="false"/>
+                        <line number="23" hits="1" branch="false"/>
+                        <line number="41" hits="1" branch="false"/>
+                        <line number="51" hits="1" branch="false"/>
+                        <line number="54" hits="1" branch="false"/>
+                        <line number="35" hits="1" branch="false"/>
+                        <line number="9" hits="1" branch="false"/>
+                        <line number="13" hits="1" branch="false"/>
+                        <line number="26" hits="1" branch="false"/>
+                        <line number="54" hits="1" branch="false"/>
+                        <line number="53" hits="1" branch="false"/>
+                        <line number="51" hits="1" branch="false"/>
+                        <line number="25" hits="1" branch="false"/>
+                        <line number="12" hits="1" branch="false"/>
+                        <line number="44" hits="1" branch="false"/>
+                        <line number="35" hits="1" branch="false"/>
+                        <line number="27" hits="1" branch="false"/>
+                        <line number="15" hits="1" branch="false"/>
+                        <line number="60" hits="1" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="37" hits="1" branch="false"/>
+                        <line number="43" hits="1" branch="false"/>
+                        <line number="22" hits="1" branch="false"/>
+                        <line number="51" hits="1" branch="false"/>
+                        <line number="9" hits="1" branch="false"/>
+                        <line number="35" hits="1" branch="false"/>
+                        <line number="37" hits="1" branch="false"/>
+                        <line number="54" hits="1" branch="false"/>
+                        <line number="37" hits="1" branch="false"/>
+                        <line number="50" hits="1" branch="false"/>
+                        <line number="32" hits="1" branch="false"/>
+                        <line number="21" hits="1" branch="false"/>
+                        <line number="35" hits="1" branch="false"/>
+                        <line number="53" hits="1" branch="false"/>
+                        <line number="11" hits="1" branch="false"/>
+                        <line number="24" hits="1" branch="false"/>
+                        <line number="42" hits="1" branch="false"/>
+                        <line number="51" hits="1" branch="false"/>
+                        <line number="27" hits="1" branch="false"/>
+                        <line number="52" hits="1" branch="false"/>
+                        <line number="60" hits="1" branch="false"/>
+                        <line number="44" hits="1" branch="false"/>
+                        <line number="14" hits="1" branch="false"/>
+                        <line number="33" hits="1" branch="false"/>
+                    </lines>
+                </class>
+            </classes>
+        </package>
+    </packages>
+</coverage>
